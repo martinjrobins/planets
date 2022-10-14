@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 s is a file about mars
+=======
+ a file about mars
+>>>>>>> main
